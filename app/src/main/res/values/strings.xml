@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab 02</string>
+    <string name="e1">Enter Email</string>
+    <string name="enter">enter en</string>
+    <string name="s1">submit</string>
+    <string name="c1">Cancel</string>
+    <string name="E1">Enter Email</string>
+    <string name="E2">Enter Email</string>
+    <string name="p1">Password</string>
+    <string name="P2">Password</string>
+    <string name="pass">password</string>
+</resources>
